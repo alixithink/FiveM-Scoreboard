@@ -1,0 +1,18 @@
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    position: fixed;
+    top: 50px;
+    right: 50px;
+	background-color: #00000091;
+}
+
+div {
+    display: inline;
+}
+
+#title {
+    font-size: 25px;
+	text-align: center;
+    padding-bottom: 5px;
+}
